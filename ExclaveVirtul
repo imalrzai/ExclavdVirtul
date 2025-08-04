@@ -84,14 +84,14 @@
       "jp008.421421.xyz": "13.115.5.57",
       "us003.421421.xyz": "35.91.198.193",
       "us004.421421.xyz": "35.85.45.14",
-      "mg.1mao.me": "38.114.103.54",
+      "mg.1mao.me": "10.10.34.35",
       "hinet.ov1.top": "111.252.139.176",
       "tw.dingdangmao.tech": "118.167.213.251",
-      "iq.1mao.me": "193.56.135.149",
+      "iq.1mao.me": "10.10.34.35",
       "kt02.yushin100.top": "183.97.197.44",
-      "tg.1mao.me": "103.137.185.187",
-      "vn.1mao.me": "103.137.185.187",
-      "ru.1mao.me": "185.143.221.202",
+      "tg.1mao.me": "10.10.34.35",
+      "vn.1mao.me": "10.10.34.35",
+      "ru.1mao.me": "10.10.34.35",
       "jp01.9191.baby": "13.231.45.229",
       "jp02.9191.baby": "3.113.26.251",
       "jp03.9191.baby": "54.65.225.93",
@@ -106,22 +106,23 @@
       "vn01.9191.baby": "160.191.165.232",
       "us01.9191.baby": "143.14.220.104",
       "us02.9191.baby": "142.171.157.52",
-      "sg1.593920.xyz": "140.245.39.201",
-      "sg6.youxuan.wiki": "138.2.70.174",
-      "sg3.593920.xyz": "140.245.39.201",
-      "tw2s.youxuan.wiki": "199.59.243.228",
-      "tw.youxuan.wiki": "218.173.203.85",
+      "sg1.593920.xyz": "10.10.34.35",
+      "sg6.youxuan.wiki": "10.10.34.35",
+      "sg3.593920.xyz": "10.10.34.35",
+      "tw2s.youxuan.wiki": "10.10.34.35",
+      "tw.youxuan.wiki": "10.10.34.35",
       "tw5.7896543.xyz": "1.170.197.220",
-      "mx1.593920.xyz": "220.158.77.174",
-      "in.593920.xyz": "141.148.209.238",
-      "ysl.593920.xyz": "129.159.152.174",
+      "mx1.593920.xyz": "10.10.34.35",
+      "in.593920.xyz": "10.10.34.35",
+      "ysl.593920.xyz": "10.10.34.35",
+      "uk1.593920.xyz": "10.10.34.35",
       "iran.ir": [
-        "185.143.233.120",
-        "185.143.234.120"
+        "185.143.234.120",
+        "185.143.233.120"
       ],
       "audit.dl-rockstargame.ir": [
-        "10.70.95.150",
-        "10.70.95.170"
+        "10.70.95.170",
+        "10.70.95.150"
       ],
       "force.dl-rockstargame.ir": [
         "10.70.95.150",
@@ -132,8 +133,8 @@
         "10.70.95.170"
       ],
       "table.dl-rockstargame.ir": [
-        "10.70.95.150",
-        "10.70.95.170"
+        "10.70.95.170",
+        "10.70.95.150"
       ],
       "email.dl-rockstargame.ir": "128.140.1.51",
       "www.mirror.dl-rockstargame.ir": "195.26.26.23",
@@ -4595,7 +4596,7 @@
         "network": "tcp",
         "realitySettings": {
           "allowInsecure": true,
-          "fingerprint": "edge",
+          "fingerprint": "ios",
           "publicKey": "yI9lqxK5_5k8KW1ZecGX2Y-CMA0UvkunkjXM5LwNFDI",
           "serverName": "s0.awsstatic.com",
           "show": false,
@@ -4641,7 +4642,7 @@
         "network": "tcp",
         "realitySettings": {
           "allowInsecure": true,
-          "fingerprint": "firefox",
+          "fingerprint": "edge",
           "publicKey": "yI9lqxK5_5k8KW1ZecGX2Y-CMA0UvkunkjXM5LwNFDI",
           "serverName": "s0.awsstatic.com",
           "show": false,
@@ -4687,7 +4688,7 @@
         "network": "tcp",
         "realitySettings": {
           "allowInsecure": true,
-          "fingerprint": "edge",
+          "fingerprint": "firefox",
           "publicKey": "yI9lqxK5_5k8KW1ZecGX2Y-CMA0UvkunkjXM5LwNFDI",
           "serverName": "s0.awsstatic.com",
           "show": false,
@@ -4733,7 +4734,7 @@
         "network": "tcp",
         "realitySettings": {
           "allowInsecure": true,
-          "fingerprint": "safari",
+          "fingerprint": "firefox",
           "publicKey": "yI9lqxK5_5k8KW1ZecGX2Y-CMA0UvkunkjXM5LwNFDI",
           "serverName": "s0.awsstatic.com",
           "show": false,
@@ -4779,7 +4780,7 @@
         "network": "tcp",
         "realitySettings": {
           "allowInsecure": true,
-          "fingerprint": "ios",
+          "fingerprint": "qq",
           "publicKey": "GwC87U6dwdPhfGGEtJAhZEf6StELYGVcvXkKJOU7nmc",
           "serverName": "s0.awsstatic.com",
           "show": false,
@@ -4825,7 +4826,7 @@
         "network": "tcp",
         "realitySettings": {
           "allowInsecure": true,
-          "fingerprint": "safari",
+          "fingerprint": "chrome",
           "publicKey": "GwC87U6dwdPhfGGEtJAhZEf6StELYGVcvXkKJOU7nmc",
           "serverName": "s0.awsstatic.com",
           "show": false,
@@ -4908,7 +4909,7 @@
         "network": "tcp",
         "realitySettings": {
           "allowInsecure": true,
-          "fingerprint": "chrome",
+          "fingerprint": "qq",
           "publicKey": "nfH7lzsC1Q_OA9Q1AFLKXOs02nJDOXZE0v0lciS-7Ec",
           "serverName": "www.samsung.com",
           "show": false,
@@ -4954,7 +4955,7 @@
         "network": "tcp",
         "realitySettings": {
           "allowInsecure": true,
-          "fingerprint": "qq",
+          "fingerprint": "safari",
           "publicKey": "4vwo3EctLRDZgVVhRCznCDT2kjBTLWMK26T0IK-etx0",
           "serverName": "buylite.music.apple.com",
           "show": false,
@@ -5000,7 +5001,7 @@
         "network": "tcp",
         "realitySettings": {
           "allowInsecure": true,
-          "fingerprint": "qq",
+          "fingerprint": "chrome",
           "publicKey": "4vwo3EctLRDZgVVhRCznCDT2kjBTLWMK26T0IK-etx0",
           "serverName": "buylite.music.apple.com",
           "show": false,
@@ -5046,7 +5047,7 @@
         "network": "tcp",
         "realitySettings": {
           "allowInsecure": true,
-          "fingerprint": "ios",
+          "fingerprint": "edge",
           "publicKey": "AgVkO3R1qjc00HOoO4zGduFG_oCHO5FYOOwKds4ZsXE",
           "serverName": "s0.awsstatic.com",
           "show": false,
@@ -6312,7 +6313,7 @@
         "network": "tcp",
         "realitySettings": {
           "allowInsecure": true,
-          "fingerprint": "safari",
+          "fingerprint": "qq",
           "publicKey": "_2xw6VZzyC2oHxl7d9ZC-QrLrj9Pa_T9xTBCVp49cng",
           "serverName": "www.samsung.com",
           "shortId": "becffd30c1af3e",
@@ -6359,7 +6360,7 @@
         "network": "tcp",
         "realitySettings": {
           "allowInsecure": true,
-          "fingerprint": "chrome",
+          "fingerprint": "ios",
           "publicKey": "_2xw6VZzyC2oHxl7d9ZC-QrLrj9Pa_T9xTBCVp49cng",
           "serverName": "www.samsung.com",
           "shortId": "becffd30c1af3e",
@@ -6453,7 +6454,7 @@
         "network": "tcp",
         "realitySettings": {
           "allowInsecure": true,
-          "fingerprint": "ios",
+          "fingerprint": "edge",
           "publicKey": "_2xw6VZzyC2oHxl7d9ZC-QrLrj9Pa_T9xTBCVp49cng",
           "serverName": "www.samsung.com",
           "shortId": "becffd30c1af3e",
@@ -6547,7 +6548,7 @@
         "network": "tcp",
         "realitySettings": {
           "allowInsecure": true,
-          "fingerprint": "edge",
+          "fingerprint": "safari",
           "publicKey": "CaRTsPFkN3NY86j3mkIzEigPosA8ztpb_sW5dE2GeCQ",
           "serverName": "player.live-video.net",
           "shortId": "34e3699f96df",
@@ -6594,7 +6595,7 @@
         "network": "tcp",
         "realitySettings": {
           "allowInsecure": true,
-          "fingerprint": "ios",
+          "fingerprint": "safari",
           "publicKey": "U39w_DSPSShMZ1Gkqe3hfvjSmeJmxgDBXB0PdVS9EWM",
           "serverName": "player.live-video.net",
           "shortId": "8b0277b8952d70",
@@ -6641,7 +6642,7 @@
         "network": "tcp",
         "realitySettings": {
           "allowInsecure": true,
-          "fingerprint": "safari",
+          "fingerprint": "qq",
           "publicKey": "bg2GR7DJvj7Bozsig3eIgHn2JkjH5LDcQYNYXm452Rg",
           "serverName": "player.live-video.net",
           "shortId": "6396865e12ba",
@@ -6688,7 +6689,7 @@
         "network": "tcp",
         "realitySettings": {
           "allowInsecure": true,
-          "fingerprint": "firefox",
+          "fingerprint": "edge",
           "publicKey": "lgoowwttIC6byh442EDc84Y1NKRs2z7WIFjwyNgEihU",
           "serverName": "player.live-video.net",
           "shortId": "ab6e056c1f",
@@ -6735,7 +6736,7 @@
         "network": "tcp",
         "realitySettings": {
           "allowInsecure": true,
-          "fingerprint": "safari",
+          "fingerprint": "ios",
           "publicKey": "hPk6qMOyz0KeD-lBCFaY_sqc_HIBVwzxzHq2I-h6sQk",
           "serverName": "player.live-video.net",
           "shortId": "657f4644662c",
@@ -6782,7 +6783,7 @@
         "network": "tcp",
         "realitySettings": {
           "allowInsecure": true,
-          "fingerprint": "safari",
+          "fingerprint": "chrome",
           "publicKey": "-LCSnWt6pc5-XB1B-orCbAnb2_yDs7RIHJb0InIpKC0",
           "serverName": "player.live-video.net",
           "shortId": "8c65ca4acbc722",
@@ -6829,7 +6830,7 @@
         "network": "tcp",
         "realitySettings": {
           "allowInsecure": true,
-          "fingerprint": "firefox",
+          "fingerprint": "safari",
           "publicKey": "27ci17wuu5a2U2-zWTMPq8wp-6u506TBuU8l0GVo42Y",
           "serverName": "player.live-video.net",
           "shortId": "efa8528de1d5bb",
@@ -6876,7 +6877,7 @@
         "network": "tcp",
         "realitySettings": {
           "allowInsecure": true,
-          "fingerprint": "safari",
+          "fingerprint": "firefox",
           "publicKey": "ncT46cLHDgh9wEEdRJUM1NqdtzjrqMDcD7gLxiOdczA",
           "serverName": "player.live-video.net",
           "shortId": "408204743a970a",
@@ -6923,7 +6924,7 @@
         "network": "tcp",
         "realitySettings": {
           "allowInsecure": true,
-          "fingerprint": "edge",
+          "fingerprint": "qq",
           "publicKey": "gkyUGsb9TKUHhSSIE-ZYEnIS3K-cK9C99c3Fi_oXok8",
           "serverName": "player.live-video.net",
           "shortId": "4f3d5fdae47580",
@@ -6970,7 +6971,7 @@
         "network": "tcp",
         "realitySettings": {
           "allowInsecure": true,
-          "fingerprint": "ios",
+          "fingerprint": "safari",
           "publicKey": "9BWus556aA6OutZBwyls-u5oQFc9Y3UfBxPV8-5b4wg",
           "serverName": "player.live-video.net",
           "shortId": "82e42768e2",
@@ -7017,7 +7018,7 @@
         "network": "tcp",
         "realitySettings": {
           "allowInsecure": true,
-          "fingerprint": "qq",
+          "fingerprint": "firefox",
           "publicKey": "ZFRUNuMDphuFQhUQt-7-bXmMl0L3d1VPSj2b8he1pm4",
           "serverName": "player.live-video.net",
           "shortId": "65dbec",
@@ -7064,7 +7065,7 @@
         "network": "tcp",
         "realitySettings": {
           "allowInsecure": true,
-          "fingerprint": "edge",
+          "fingerprint": "firefox",
           "publicKey": "Wt-v30Zh_4ZjVGyo3eEzjT7gs7-DEa8v4YtLV4vKsRQ",
           "serverName": "player.live-video.net",
           "shortId": "0b8d49",
@@ -7111,7 +7112,7 @@
         "network": "tcp",
         "realitySettings": {
           "allowInsecure": true,
-          "fingerprint": "chrome",
+          "fingerprint": "safari",
           "publicKey": "IhFT04KTpYpojQakN7Xjc9H69oVQkGWT9pk12x28szQ",
           "serverName": "www.microsoft.com",
           "show": false,
@@ -7157,7 +7158,7 @@
         "network": "tcp",
         "realitySettings": {
           "allowInsecure": true,
-          "fingerprint": "edge",
+          "fingerprint": "firefox",
           "publicKey": "ydT_cMr10cDO7bl3ljTO9783k6AkSnCR7dpAzWrK5VI",
           "serverName": "www.microsoft.com",
           "show": false,
@@ -7203,7 +7204,7 @@
         "network": "tcp",
         "realitySettings": {
           "allowInsecure": true,
-          "fingerprint": "edge",
+          "fingerprint": "firefox",
           "publicKey": "SVsTnGYMVwGhn_kRfKTGmoiq4hiXyHQsFhL8lSTEEzg",
           "serverName": "www.microsoft.com",
           "show": false,
@@ -7293,7 +7294,7 @@
         "network": "tcp",
         "realitySettings": {
           "allowInsecure": true,
-          "fingerprint": "firefox",
+          "fingerprint": "edge",
           "publicKey": "vyLlXKHrAaxklt-EwC0KX372cy7o2xvbQBEmkwh2zhQ",
           "serverName": "www.microsoft.com",
           "show": false,
@@ -7338,7 +7339,7 @@
         "network": "tcp",
         "realitySettings": {
           "allowInsecure": true,
-          "fingerprint": "safari",
+          "fingerprint": "qq",
           "publicKey": "vyLlXKHrAaxklt-EwC0KX372cy7o2xvbQBEmkwh2zhQ",
           "serverName": "www.microsoft.com",
           "show": false,
@@ -7384,7 +7385,7 @@
         "network": "tcp",
         "realitySettings": {
           "allowInsecure": true,
-          "fingerprint": "safari",
+          "fingerprint": "chrome",
           "publicKey": "yaEquVoqYQm4yenF6_DTXM4nDg2GQyvPGVnrKda3UzQ",
           "serverName": "www.microsoft.com",
           "show": false,
@@ -7430,7 +7431,7 @@
         "network": "tcp",
         "realitySettings": {
           "allowInsecure": true,
-          "fingerprint": "ios",
+          "fingerprint": "qq",
           "publicKey": "9mH-G5tFpGM-S1jLnBl0wO77U7iH3_MpcSF72vjheXQ",
           "serverName": "www.microsoft.com",
           "show": false,
@@ -7476,7 +7477,7 @@
         "network": "tcp",
         "realitySettings": {
           "allowInsecure": true,
-          "fingerprint": "firefox",
+          "fingerprint": "ios",
           "publicKey": "eiDQ0mkkASiYAdZCZeMxdiy8YzwYWN5kSaXpvnfjwhA",
           "serverName": "www.microsoft.com",
           "show": false,
@@ -7519,6 +7520,9 @@
       },
       "streamSettings": {
         "network": "tcp",
+        "sockopt": {
+          "domainStrategy": "UseIPv6v4"
+        },
         "tcpSettings": {
           "header": {
             "type": "none"
@@ -8027,7 +8031,7 @@
       "tag": "block"
     }
   ],
-  "remarks": "ExclaveVirtul",
+  "remarks": "Intelligent Selection",
   "routing": {
     "balancers": [
       {
