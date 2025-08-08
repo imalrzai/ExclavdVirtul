@@ -59,18 +59,18 @@
       "ysl.593920.xyz": "10.10.34.35",
       "uk1.593920.xyz": "10.10.34.35",
       "jiasu.bxvpn.xyz": [
-        "104.17.25.173",
-        "104.16.250.22",
+        "104.18.185.26",
         "104.21.227.134",
-        "104.21.224.5",
-        "104.18.185.26"
+        "104.16.250.22",
+        "104.17.25.173",
+        "104.21.224.5"
       ],
       "sssgv6.521pokemon.com": "120.232.170.194",
       "ssjpv6.521pokemon.com": "120.232.170.194",
-      "ssjp04.521pokemon.com": "62.234.192.184",
+      "ssjp04.521pokemon.com": "111.229.254.65",
       "sskrv6.521pokemon.com": "120.232.170.194",
       "ssusv6.521pokemon.com": "120.232.170.194",
-      "usiplc.521pokemon.com": "62.234.192.184",
+      "usiplc.521pokemon.com": "111.229.254.65",
       "mg.1mao.me": "10.10.34.35",
       "hinet.ov1.top": "36.235.175.230",
       "tw.dingdangmao.tech": "118.167.192.110",
@@ -100,20 +100,20 @@
       "usa.tryfreenet24.xyz": "194.113.37.53",
       "imsoonfi.tryfreenet24.xyz": "109.206.236.140",
       "www.speedtest.net": [
-        "104.17.148.22",
-        "104.17.147.22"
+        "104.17.147.22",
+        "104.17.148.22"
       ],
       "zula.ir": [
-        "188.114.96.7",
-        "188.114.97.7"
+        "188.114.96.3",
+        "188.114.97.3"
       ],
       "iran.ir": [
         "185.143.234.120",
         "185.143.233.120"
       ],
       "audit.dl-rockstargame.ir": [
-        "10.70.95.170",
-        "10.70.95.150"
+        "10.70.95.150",
+        "10.70.95.170"
       ],
       "glass.dl-rockstargame.ir": [
         "10.70.95.150",
@@ -124,11 +124,7 @@
         "10.70.95.150"
       ],
       "www.mirror.dl-rockstargame.ir": "195.26.26.23",
-      "www.dns.dl-rockstargame.ir": "104.237.250.13",
-      "cf.090227.xyz": [
-        "188.114.96.3",
-        "188.114.97.3"
-      ]
+      "www.dns.dl-rockstargame.ir": "104.237.250.13"
     },
     "servers": [
       "62.210.136.158",
@@ -216,7 +212,7 @@
         "network": "tcp",
         "realitySettings": {
           "allowInsecure": true,
-          "fingerprint": "edge",
+          "fingerprint": "chrome",
           "publicKey": "IhFT04KTpYpojQakN7Xjc9H69oVQkGWT9pk12x28szQ",
           "serverName": "www.microsoft.com",
           "show": false,
@@ -262,7 +258,7 @@
         "network": "tcp",
         "realitySettings": {
           "allowInsecure": true,
-          "fingerprint": "safari",
+          "fingerprint": "firefox",
           "publicKey": "ydT_cMr10cDO7bl3ljTO9783k6AkSnCR7dpAzWrK5VI",
           "serverName": "www.microsoft.com",
           "show": false,
@@ -308,7 +304,7 @@
         "network": "tcp",
         "realitySettings": {
           "allowInsecure": true,
-          "fingerprint": "chrome",
+          "fingerprint": "safari",
           "publicKey": "SVsTnGYMVwGhn_kRfKTGmoiq4hiXyHQsFhL8lSTEEzg",
           "serverName": "www.microsoft.com",
           "show": false,
@@ -353,7 +349,7 @@
         "network": "tcp",
         "realitySettings": {
           "allowInsecure": true,
-          "fingerprint": "chrome",
+          "fingerprint": "qq",
           "publicKey": "vyLlXKHrAaxklt-EwC0KX372cy7o2xvbQBEmkwh2zhQ",
           "serverName": "www.microsoft.com",
           "show": false,
@@ -398,7 +394,7 @@
         "network": "tcp",
         "realitySettings": {
           "allowInsecure": true,
-          "fingerprint": "firefox",
+          "fingerprint": "edge",
           "publicKey": "vyLlXKHrAaxklt-EwC0KX372cy7o2xvbQBEmkwh2zhQ",
           "serverName": "www.microsoft.com",
           "show": false,
@@ -443,7 +439,7 @@
         "network": "tcp",
         "realitySettings": {
           "allowInsecure": true,
-          "fingerprint": "edge",
+          "fingerprint": "ios",
           "publicKey": "vyLlXKHrAaxklt-EwC0KX372cy7o2xvbQBEmkwh2zhQ",
           "serverName": "www.microsoft.com",
           "show": false,
@@ -489,7 +485,7 @@
         "network": "tcp",
         "realitySettings": {
           "allowInsecure": true,
-          "fingerprint": "qq",
+          "fingerprint": "chrome",
           "publicKey": "yaEquVoqYQm4yenF6_DTXM4nDg2GQyvPGVnrKda3UzQ",
           "serverName": "www.microsoft.com",
           "show": false,
@@ -535,7 +531,7 @@
         "network": "tcp",
         "realitySettings": {
           "allowInsecure": true,
-          "fingerprint": "chrome",
+          "fingerprint": "qq",
           "publicKey": "9mH-G5tFpGM-S1jLnBl0wO77U7iH3_MpcSF72vjheXQ",
           "serverName": "www.microsoft.com",
           "show": false,
@@ -581,7 +577,7 @@
         "network": "tcp",
         "realitySettings": {
           "allowInsecure": true,
-          "fingerprint": "edge",
+          "fingerprint": "firefox",
           "publicKey": "eiDQ0mkkASiYAdZCZeMxdiy8YzwYWN5kSaXpvnfjwhA",
           "serverName": "www.microsoft.com",
           "show": false,
@@ -3653,7 +3649,7 @@
         "network": "tcp",
         "realitySettings": {
           "allowInsecure": true,
-          "fingerprint": "chrome",
+          "fingerprint": "firefox",
           "publicKey": "IhFT04KTpYpojQakN7Xjc9H69oVQkGWT9pk12x28szQ",
           "serverName": "www.microsoft.com",
           "show": false,
@@ -3699,7 +3695,7 @@
         "network": "tcp",
         "realitySettings": {
           "allowInsecure": true,
-          "fingerprint": "chrome",
+          "fingerprint": "qq",
           "publicKey": "ydT_cMr10cDO7bl3ljTO9783k6AkSnCR7dpAzWrK5VI",
           "serverName": "www.microsoft.com",
           "show": false,
@@ -3790,7 +3786,7 @@
         "network": "tcp",
         "realitySettings": {
           "allowInsecure": true,
-          "fingerprint": "chrome",
+          "fingerprint": "firefox",
           "publicKey": "vyLlXKHrAaxklt-EwC0KX372cy7o2xvbQBEmkwh2zhQ",
           "serverName": "www.microsoft.com",
           "show": false,
@@ -3880,7 +3876,7 @@
         "network": "tcp",
         "realitySettings": {
           "allowInsecure": true,
-          "fingerprint": "ios",
+          "fingerprint": "safari",
           "publicKey": "vyLlXKHrAaxklt-EwC0KX372cy7o2xvbQBEmkwh2zhQ",
           "serverName": "www.microsoft.com",
           "show": false,
@@ -3926,7 +3922,7 @@
         "network": "tcp",
         "realitySettings": {
           "allowInsecure": true,
-          "fingerprint": "edge",
+          "fingerprint": "qq",
           "publicKey": "yaEquVoqYQm4yenF6_DTXM4nDg2GQyvPGVnrKda3UzQ",
           "serverName": "www.microsoft.com",
           "show": false,
@@ -3972,7 +3968,7 @@
         "network": "tcp",
         "realitySettings": {
           "allowInsecure": true,
-          "fingerprint": "chrome",
+          "fingerprint": "safari",
           "publicKey": "9mH-G5tFpGM-S1jLnBl0wO77U7iH3_MpcSF72vjheXQ",
           "serverName": "www.microsoft.com",
           "show": false,
@@ -4018,7 +4014,7 @@
         "network": "tcp",
         "realitySettings": {
           "allowInsecure": true,
-          "fingerprint": "ios",
+          "fingerprint": "qq",
           "publicKey": "eiDQ0mkkASiYAdZCZeMxdiy8YzwYWN5kSaXpvnfjwhA",
           "serverName": "www.microsoft.com",
           "show": false,
@@ -4100,7 +4096,7 @@
         "network": "tcp",
         "realitySettings": {
           "allowInsecure": true,
-          "fingerprint": "edge",
+          "fingerprint": "firefox",
           "publicKey": "yI9lqxK5_5k8KW1ZecGX2Y-CMA0UvkunkjXM5LwNFDI",
           "serverName": "s0.awsstatic.com",
           "show": false,
@@ -4146,7 +4142,7 @@
         "network": "tcp",
         "realitySettings": {
           "allowInsecure": true,
-          "fingerprint": "firefox",
+          "fingerprint": "qq",
           "publicKey": "yI9lqxK5_5k8KW1ZecGX2Y-CMA0UvkunkjXM5LwNFDI",
           "serverName": "s0.awsstatic.com",
           "show": false,
@@ -4192,7 +4188,7 @@
         "network": "tcp",
         "realitySettings": {
           "allowInsecure": true,
-          "fingerprint": "chrome",
+          "fingerprint": "safari",
           "publicKey": "yI9lqxK5_5k8KW1ZecGX2Y-CMA0UvkunkjXM5LwNFDI",
           "serverName": "s0.awsstatic.com",
           "show": false,
@@ -4238,7 +4234,7 @@
         "network": "tcp",
         "realitySettings": {
           "allowInsecure": true,
-          "fingerprint": "firefox",
+          "fingerprint": "edge",
           "publicKey": "yI9lqxK5_5k8KW1ZecGX2Y-CMA0UvkunkjXM5LwNFDI",
           "serverName": "s0.awsstatic.com",
           "show": false,
@@ -4284,7 +4280,7 @@
         "network": "tcp",
         "realitySettings": {
           "allowInsecure": true,
-          "fingerprint": "safari",
+          "fingerprint": "qq",
           "publicKey": "GwC87U6dwdPhfGGEtJAhZEf6StELYGVcvXkKJOU7nmc",
           "serverName": "s0.awsstatic.com",
           "show": false,
@@ -4330,7 +4326,7 @@
         "network": "tcp",
         "realitySettings": {
           "allowInsecure": true,
-          "fingerprint": "firefox",
+          "fingerprint": "qq",
           "publicKey": "GwC87U6dwdPhfGGEtJAhZEf6StELYGVcvXkKJOU7nmc",
           "serverName": "s0.awsstatic.com",
           "show": false,
@@ -4459,7 +4455,7 @@
         "network": "tcp",
         "realitySettings": {
           "allowInsecure": true,
-          "fingerprint": "edge",
+          "fingerprint": "ios",
           "publicKey": "4vwo3EctLRDZgVVhRCznCDT2kjBTLWMK26T0IK-etx0",
           "serverName": "buylite.music.apple.com",
           "show": false,
@@ -4505,7 +4501,7 @@
         "network": "tcp",
         "realitySettings": {
           "allowInsecure": true,
-          "fingerprint": "safari",
+          "fingerprint": "chrome",
           "publicKey": "4vwo3EctLRDZgVVhRCznCDT2kjBTLWMK26T0IK-etx0",
           "serverName": "buylite.music.apple.com",
           "show": false,
@@ -5860,7 +5856,7 @@
         "network": "tcp",
         "realitySettings": {
           "allowInsecure": true,
-          "fingerprint": "chrome",
+          "fingerprint": "ios",
           "publicKey": "_2xw6VZzyC2oHxl7d9ZC-QrLrj9Pa_T9xTBCVp49cng",
           "serverName": "www.samsung.com",
           "shortId": "becffd30c1af3e",
@@ -5907,7 +5903,7 @@
         "network": "tcp",
         "realitySettings": {
           "allowInsecure": true,
-          "fingerprint": "edge",
+          "fingerprint": "ios",
           "publicKey": "_2xw6VZzyC2oHxl7d9ZC-QrLrj9Pa_T9xTBCVp49cng",
           "serverName": "www.samsung.com",
           "shortId": "becffd30c1af3e",
@@ -5954,7 +5950,7 @@
         "network": "tcp",
         "realitySettings": {
           "allowInsecure": true,
-          "fingerprint": "ios",
+          "fingerprint": "chrome",
           "publicKey": "_2xw6VZzyC2oHxl7d9ZC-QrLrj9Pa_T9xTBCVp49cng",
           "serverName": "www.samsung.com",
           "shortId": "becffd30c1af3e",
@@ -6001,7 +5997,7 @@
         "network": "tcp",
         "realitySettings": {
           "allowInsecure": true,
-          "fingerprint": "ios",
+          "fingerprint": "qq",
           "publicKey": "_2xw6VZzyC2oHxl7d9ZC-QrLrj9Pa_T9xTBCVp49cng",
           "serverName": "www.samsung.com",
           "shortId": "becffd30c1af3e",
@@ -6048,7 +6044,7 @@
         "network": "tcp",
         "realitySettings": {
           "allowInsecure": true,
-          "fingerprint": "firefox",
+          "fingerprint": "safari",
           "publicKey": "_n03lNMzeEqXcR40Llr1hfM51Rvldo7a5yJvLU0QQRk",
           "serverName": "www.samsung.com",
           "shortId": "a136d3",
@@ -6095,7 +6091,7 @@
         "network": "tcp",
         "realitySettings": {
           "allowInsecure": true,
-          "fingerprint": "qq",
+          "fingerprint": "firefox",
           "publicKey": "CaRTsPFkN3NY86j3mkIzEigPosA8ztpb_sW5dE2GeCQ",
           "serverName": "player.live-video.net",
           "shortId": "34e3699f96df",
@@ -6142,7 +6138,7 @@
         "network": "tcp",
         "realitySettings": {
           "allowInsecure": true,
-          "fingerprint": "safari",
+          "fingerprint": "edge",
           "publicKey": "U39w_DSPSShMZ1Gkqe3hfvjSmeJmxgDBXB0PdVS9EWM",
           "serverName": "player.live-video.net",
           "shortId": "8b0277b8952d70",
@@ -6189,7 +6185,7 @@
         "network": "tcp",
         "realitySettings": {
           "allowInsecure": true,
-          "fingerprint": "edge",
+          "fingerprint": "firefox",
           "publicKey": "bg2GR7DJvj7Bozsig3eIgHn2JkjH5LDcQYNYXm452Rg",
           "serverName": "player.live-video.net",
           "shortId": "6396865e12ba",
@@ -6236,7 +6232,7 @@
         "network": "tcp",
         "realitySettings": {
           "allowInsecure": true,
-          "fingerprint": "edge",
+          "fingerprint": "firefox",
           "publicKey": "lgoowwttIC6byh442EDc84Y1NKRs2z7WIFjwyNgEihU",
           "serverName": "player.live-video.net",
           "shortId": "ab6e056c1f",
@@ -6330,7 +6326,7 @@
         "network": "tcp",
         "realitySettings": {
           "allowInsecure": true,
-          "fingerprint": "ios",
+          "fingerprint": "chrome",
           "publicKey": "-LCSnWt6pc5-XB1B-orCbAnb2_yDs7RIHJb0InIpKC0",
           "serverName": "player.live-video.net",
           "shortId": "8c65ca4acbc722",
@@ -6377,7 +6373,7 @@
         "network": "tcp",
         "realitySettings": {
           "allowInsecure": true,
-          "fingerprint": "safari",
+          "fingerprint": "qq",
           "publicKey": "27ci17wuu5a2U2-zWTMPq8wp-6u506TBuU8l0GVo42Y",
           "serverName": "player.live-video.net",
           "shortId": "efa8528de1d5bb",
@@ -6424,7 +6420,7 @@
         "network": "tcp",
         "realitySettings": {
           "allowInsecure": true,
-          "fingerprint": "edge",
+          "fingerprint": "ios",
           "publicKey": "ncT46cLHDgh9wEEdRJUM1NqdtzjrqMDcD7gLxiOdczA",
           "serverName": "player.live-video.net",
           "shortId": "408204743a970a",
@@ -6471,7 +6467,7 @@
         "network": "tcp",
         "realitySettings": {
           "allowInsecure": true,
-          "fingerprint": "chrome",
+          "fingerprint": "qq",
           "publicKey": "gkyUGsb9TKUHhSSIE-ZYEnIS3K-cK9C99c3Fi_oXok8",
           "serverName": "player.live-video.net",
           "shortId": "4f3d5fdae47580",
@@ -6518,7 +6514,7 @@
         "network": "tcp",
         "realitySettings": {
           "allowInsecure": true,
-          "fingerprint": "chrome",
+          "fingerprint": "firefox",
           "publicKey": "9BWus556aA6OutZBwyls-u5oQFc9Y3UfBxPV8-5b4wg",
           "serverName": "player.live-video.net",
           "shortId": "82e42768e2",
@@ -6565,7 +6561,7 @@
         "network": "tcp",
         "realitySettings": {
           "allowInsecure": true,
-          "fingerprint": "edge",
+          "fingerprint": "ios",
           "publicKey": "ZFRUNuMDphuFQhUQt-7-bXmMl0L3d1VPSj2b8he1pm4",
           "serverName": "player.live-video.net",
           "shortId": "65dbec",
@@ -6612,7 +6608,7 @@
         "network": "tcp",
         "realitySettings": {
           "allowInsecure": true,
-          "fingerprint": "firefox",
+          "fingerprint": "chrome",
           "publicKey": "Wt-v30Zh_4ZjVGyo3eEzjT7gs7-DEa8v4YtLV4vKsRQ",
           "serverName": "player.live-video.net",
           "shortId": "0b8d49",
@@ -7920,450 +7916,6 @@
       "tag": "proxy-212"
     },
     {
-      "mux": {
-        "concurrency": 100,
-        "enabled": true,
-        "xudpConcurrency": 100,
-        "xudpProxyUDP443": "reject"
-      },
-      "protocol": "vmess",
-      "settings": {
-        "vnext": [
-          {
-            "address": "cf.090227.xyz",
-            "port": 8080,
-            "users": [
-              {
-                "id": "0ad6fdbd-10c2-4cf2-85f5-cf255e5ab2d0",
-                "level": 8,
-                "security": "auto"
-              }
-            ]
-          }
-        ]
-      },
-      "streamSettings": {
-        "network": "ws",
-        "sockopt": {
-          "domainStrategy": "UseIPv6v4"
-        },
-        "wsSettings": {
-          "headers": {
-            "Host": "gyde.aifjj.asia"
-          },
-          "path": "/"
-        }
-      },
-      "tag": "proxy-213"
-    },
-    {
-      "mux": {
-        "concurrency": 100,
-        "enabled": true,
-        "xudpConcurrency": 100,
-        "xudpProxyUDP443": "reject"
-      },
-      "protocol": "vmess",
-      "settings": {
-        "vnext": [
-          {
-            "address": "cf.090227.xyz",
-            "port": 8080,
-            "users": [
-              {
-                "id": "0ad6fdbd-10c2-4cf2-85f5-cf255e5ab2d0",
-                "level": 8,
-                "security": "auto"
-              }
-            ]
-          }
-        ]
-      },
-      "streamSettings": {
-        "network": "ws",
-        "sockopt": {
-          "domainStrategy": "UseIPv6v4"
-        },
-        "wsSettings": {
-          "headers": {
-            "Host": "gyde.aifjj.asia"
-          },
-          "path": "/"
-        }
-      },
-      "tag": "proxy-214"
-    },
-    {
-      "mux": {
-        "concurrency": 100,
-        "enabled": true,
-        "xudpConcurrency": 100,
-        "xudpProxyUDP443": "reject"
-      },
-      "protocol": "vmess",
-      "settings": {
-        "vnext": [
-          {
-            "address": "cf.090227.xyz",
-            "port": 8080,
-            "users": [
-              {
-                "id": "0ad6fdbd-10c2-4cf2-85f5-cf255e5ab2d0",
-                "level": 8,
-                "security": "auto"
-              }
-            ]
-          }
-        ]
-      },
-      "streamSettings": {
-        "network": "ws",
-        "sockopt": {
-          "domainStrategy": "UseIPv6v4"
-        },
-        "wsSettings": {
-          "headers": {
-            "Host": "gyde.aifjj.asia"
-          },
-          "path": "/"
-        }
-      },
-      "tag": "proxy-215"
-    },
-    {
-      "mux": {
-        "concurrency": 100,
-        "enabled": true,
-        "xudpConcurrency": 100,
-        "xudpProxyUDP443": "reject"
-      },
-      "protocol": "vmess",
-      "settings": {
-        "vnext": [
-          {
-            "address": "cf.090227.xyz",
-            "port": 8080,
-            "users": [
-              {
-                "id": "0ad6fdbd-10c2-4cf2-85f5-cf255e5ab2d0",
-                "level": 8,
-                "security": "auto"
-              }
-            ]
-          }
-        ]
-      },
-      "streamSettings": {
-        "network": "ws",
-        "sockopt": {
-          "domainStrategy": "UseIPv6v4"
-        },
-        "wsSettings": {
-          "headers": {
-            "Host": "gyde.aifjj.asia"
-          },
-          "path": "/"
-        }
-      },
-      "tag": "proxy-216"
-    },
-    {
-      "mux": {
-        "concurrency": 100,
-        "enabled": true,
-        "xudpConcurrency": 100,
-        "xudpProxyUDP443": "reject"
-      },
-      "protocol": "vmess",
-      "settings": {
-        "vnext": [
-          {
-            "address": "cf.090227.xyz",
-            "port": 8080,
-            "users": [
-              {
-                "id": "0ad6fdbd-10c2-4cf2-85f5-cf255e5ab2d0",
-                "level": 8,
-                "security": "auto"
-              }
-            ]
-          }
-        ]
-      },
-      "streamSettings": {
-        "network": "ws",
-        "sockopt": {
-          "domainStrategy": "UseIPv6v4"
-        },
-        "wsSettings": {
-          "headers": {
-            "Host": "gyde.aifjj.asia"
-          },
-          "path": "/"
-        }
-      },
-      "tag": "proxy-217"
-    },
-    {
-      "mux": {
-        "concurrency": 100,
-        "enabled": true,
-        "xudpConcurrency": 100,
-        "xudpProxyUDP443": "reject"
-      },
-      "protocol": "vmess",
-      "settings": {
-        "vnext": [
-          {
-            "address": "cf.090227.xyz",
-            "port": 8080,
-            "users": [
-              {
-                "id": "0ad6fdbd-10c2-4cf2-85f5-cf255e5ab2d0",
-                "level": 8,
-                "security": "auto"
-              }
-            ]
-          }
-        ]
-      },
-      "streamSettings": {
-        "network": "ws",
-        "sockopt": {
-          "domainStrategy": "UseIPv6v4"
-        },
-        "wsSettings": {
-          "headers": {
-            "Host": "gyde.aifjj.asia"
-          },
-          "path": "/"
-        }
-      },
-      "tag": "proxy-218"
-    },
-    {
-      "mux": {
-        "concurrency": 100,
-        "enabled": true,
-        "xudpConcurrency": 100,
-        "xudpProxyUDP443": "reject"
-      },
-      "protocol": "vmess",
-      "settings": {
-        "vnext": [
-          {
-            "address": "cf.090227.xyz",
-            "port": 8080,
-            "users": [
-              {
-                "id": "0ad6fdbd-10c2-4cf2-85f5-cf255e5ab2d0",
-                "level": 8,
-                "security": "auto"
-              }
-            ]
-          }
-        ]
-      },
-      "streamSettings": {
-        "network": "ws",
-        "sockopt": {
-          "domainStrategy": "UseIPv6v4"
-        },
-        "wsSettings": {
-          "headers": {
-            "Host": "gyde.aifjj.asia"
-          },
-          "path": "/"
-        }
-      },
-      "tag": "proxy-219"
-    },
-    {
-      "mux": {
-        "concurrency": 100,
-        "enabled": true,
-        "xudpConcurrency": 100,
-        "xudpProxyUDP443": "reject"
-      },
-      "protocol": "vmess",
-      "settings": {
-        "vnext": [
-          {
-            "address": "cf.090227.xyz",
-            "port": 8080,
-            "users": [
-              {
-                "id": "0ad6fdbd-10c2-4cf2-85f5-cf255e5ab2d0",
-                "level": 8,
-                "security": "auto"
-              }
-            ]
-          }
-        ]
-      },
-      "streamSettings": {
-        "network": "ws",
-        "sockopt": {
-          "domainStrategy": "UseIPv6v4"
-        },
-        "wsSettings": {
-          "headers": {
-            "Host": "gyau.aifjj.asia"
-          },
-          "path": "/"
-        }
-      },
-      "tag": "proxy-220"
-    },
-    {
-      "mux": {
-        "concurrency": 100,
-        "enabled": true,
-        "xudpConcurrency": 100,
-        "xudpProxyUDP443": "reject"
-      },
-      "protocol": "vmess",
-      "settings": {
-        "vnext": [
-          {
-            "address": "cf.090227.xyz",
-            "port": 8080,
-            "users": [
-              {
-                "id": "0ad6fdbd-10c2-4cf2-85f5-cf255e5ab2d0",
-                "level": 8,
-                "security": "auto"
-              }
-            ]
-          }
-        ]
-      },
-      "streamSettings": {
-        "network": "ws",
-        "sockopt": {
-          "domainStrategy": "UseIPv6v4"
-        },
-        "wsSettings": {
-          "headers": {
-            "Host": "gyus.aifjj.asia"
-          },
-          "path": "/"
-        }
-      },
-      "tag": "proxy-221"
-    },
-    {
-      "mux": {
-        "concurrency": 100,
-        "enabled": true,
-        "xudpConcurrency": 100,
-        "xudpProxyUDP443": "reject"
-      },
-      "protocol": "vmess",
-      "settings": {
-        "vnext": [
-          {
-            "address": "cf.090227.xyz",
-            "port": 8080,
-            "users": [
-              {
-                "id": "0ad6fdbd-10c2-4cf2-85f5-cf255e5ab2d0",
-                "level": 8,
-                "security": "auto"
-              }
-            ]
-          }
-        ]
-      },
-      "streamSettings": {
-        "network": "ws",
-        "sockopt": {
-          "domainStrategy": "UseIPv6v4"
-        },
-        "wsSettings": {
-          "headers": {
-            "Host": "gysg.aifjj.asia"
-          },
-          "path": "/"
-        }
-      },
-      "tag": "proxy-222"
-    },
-    {
-      "mux": {
-        "concurrency": 100,
-        "enabled": true,
-        "xudpConcurrency": 100,
-        "xudpProxyUDP443": "reject"
-      },
-      "protocol": "vmess",
-      "settings": {
-        "vnext": [
-          {
-            "address": "cf.090227.xyz",
-            "port": 8080,
-            "users": [
-              {
-                "id": "0ad6fdbd-10c2-4cf2-85f5-cf255e5ab2d0",
-                "level": 8,
-                "security": "auto"
-              }
-            ]
-          }
-        ]
-      },
-      "streamSettings": {
-        "network": "ws",
-        "sockopt": {
-          "domainStrategy": "UseIPv6v4"
-        },
-        "wsSettings": {
-          "headers": {
-            "Host": "gykr.aifjj.asia"
-          },
-          "path": "/"
-        }
-      },
-      "tag": "proxy-223"
-    },
-    {
-      "mux": {
-        "concurrency": 100,
-        "enabled": true,
-        "xudpConcurrency": 100,
-        "xudpProxyUDP443": "reject"
-      },
-      "protocol": "vmess",
-      "settings": {
-        "vnext": [
-          {
-            "address": "cf.090227.xyz",
-            "port": 8080,
-            "users": [
-              {
-                "id": "0ad6fdbd-10c2-4cf2-85f5-cf255e5ab2d0",
-                "level": 8,
-                "security": "auto"
-              }
-            ]
-          }
-        ]
-      },
-      "streamSettings": {
-        "network": "ws",
-        "sockopt": {
-          "domainStrategy": "UseIPv6v4"
-        },
-        "wsSettings": {
-          "headers": {
-            "Host": "gykr2.aifjj.asia"
-          },
-          "path": "/"
-        }
-      },
-      "tag": "proxy-224"
-    },
-    {
       "protocol": "freedom",
       "settings": {
         "domainStrategy": "UseIP"
@@ -8380,7 +7932,7 @@
       "tag": "block"
     }
   ],
-  "remarks": "کاستوم اختصاصی ویتوری",
+  "remarks": "ExclaveVirtul",
   "routing": {
     "balancers": [
       {
