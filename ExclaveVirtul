@@ -51,26 +51,26 @@
       "senator.cdniran.info": "91.193.58.190",
       "public18v7.fastipsport.com": "185.236.232.189",
       "www.speedtest.net": [
-        "104.17.147.22",
-        "104.17.148.22"
+        "104.17.148.22",
+        "104.17.147.22"
       ],
       "pqh30v8.waipdirect.shop": "185.236.232.123",
       "public15v7.fastipsport.com": "185.236.232.157",
       "it.panelmarzban.com": "141.227.140.218",
       "all.tellmethetrue.shop": [
-        "104.26.3.186",
+        "172.67.68.36",
         "104.26.2.186",
-        "172.67.68.36"
+        "104.26.3.186"
       ],
       "pqh29v4.vetmainconf.shop": "185.236.232.240",
       "al-akhbar.com": [
+        "104.26.10.180",
         "172.67.75.168",
-        "104.26.11.180",
-        "104.26.10.180"
+        "104.26.11.180"
       ],
       "web.xhamster.biz.id": [
-        "188.114.97.3",
-        "188.114.96.3"
+        "172.66.172.114",
+        "104.20.30.217"
       ],
       "638816432353648698.prague-shledrc-acbs.info": "94.131.9.172",
       "simonil.zarghamportal.ir": "172.66.40.99",
@@ -81,150 +81,160 @@
       "pqh24v8.waipdirect.shop": "185.236.232.223",
       "speedtest.net.zula.ir.nobitex.ir.shakhle.ir": "65.109.199.141",
       "b6.sarasimano.com": [
-        "104.21.16.1",
         "104.21.80.1",
-        "104.21.96.1",
-        "104.21.48.1",
         "104.21.112.1",
+        "104.21.96.1",
+        "104.21.16.1",
         "104.21.64.1",
-        "104.21.32.1"
+        "104.21.32.1",
+        "104.21.48.1"
       ],
       "s3.sarasimano.com": [
         "104.21.48.1",
-        "104.21.80.1",
-        "104.21.96.1",
-        "104.21.64.1",
-        "104.21.32.1",
-        "104.21.16.1",
-        "104.21.112.1"
-      ],
-      "s2.sarasimano.com": [
-        "104.21.48.1",
-        "104.21.16.1",
-        "104.21.80.1",
         "104.21.32.1",
         "104.21.112.1",
         "104.21.96.1",
-        "104.21.64.1"
-      ],
-      "n1.sarasimano.com": [
+        "104.21.16.1",
         "104.21.64.1",
+        "104.21.80.1"
+      ],
+      "s2.sarasimano.com": [
         "104.21.96.1",
+        "104.21.48.1",
         "104.21.16.1",
         "104.21.32.1",
+        "104.21.80.1",
+        "104.21.64.1",
+        "104.21.112.1"
+      ],
+      "n1.sarasimano.com": [
+        "104.21.16.1",
+        "104.21.96.1",
+        "104.21.32.1",
+        "104.21.64.1",
         "104.21.80.1",
         "104.21.48.1",
         "104.21.112.1"
       ],
       "n3.sarasimano.com": [
-        "104.21.96.1",
-        "104.21.48.1",
+        "104.21.112.1",
         "104.21.80.1",
+        "104.21.48.1",
         "104.21.16.1",
         "104.21.32.1",
-        "104.21.112.1",
+        "104.21.96.1",
         "104.21.64.1"
       ],
       "n4.sarasimano.com": [
-        "104.21.16.1",
-        "104.21.48.1",
-        "104.21.80.1",
-        "104.21.32.1",
-        "104.21.64.1",
         "104.21.96.1",
-        "104.21.112.1"
-      ],
-      "n7.sarasimano.com": [
-        "104.21.80.1",
-        "104.21.96.1",
-        "104.21.48.1",
-        "104.21.32.1",
-        "104.21.64.1",
         "104.21.112.1",
-        "104.21.16.1"
-      ],
-      "n8.sarasimano.com": [
-        "104.21.112.1",
-        "104.21.80.1",
-        "104.21.64.1",
-        "104.21.96.1",
-        "104.21.32.1",
-        "104.21.16.1",
-        "104.21.48.1"
-      ],
-      "n5.sarasimano.com": [
         "104.21.48.1",
         "104.21.64.1",
-        "104.21.32.1",
-        "104.21.96.1",
         "104.21.16.1",
-        "104.21.112.1",
+        "104.21.32.1",
         "104.21.80.1"
       ],
-      "f3.sarasimano.com": [
+      "n7.sarasimano.com": [
         "104.21.64.1",
+        "104.21.16.1",
+        "104.21.80.1",
+        "104.21.96.1",
+        "104.21.48.1",
+        "104.21.32.1",
+        "104.21.112.1"
+      ],
+      "n8.sarasimano.com": [
+        "104.21.16.1",
         "104.21.112.1",
         "104.21.96.1",
-        "104.21.80.1",
+        "104.21.64.1",
         "104.21.32.1",
+        "104.21.48.1",
+        "104.21.80.1"
+      ],
+      "n5.sarasimano.com": [
+        "104.21.64.1",
+        "104.21.32.1",
+        "104.21.80.1",
+        "104.21.96.1",
+        "104.21.112.1",
         "104.21.16.1",
         "104.21.48.1"
       ],
+      "f3.sarasimano.com": [
+        "104.21.112.1",
+        "104.21.80.1",
+        "104.21.96.1",
+        "104.21.64.1",
+        "104.21.16.1",
+        "104.21.48.1",
+        "104.21.32.1"
+      ],
       "f1.sarasimano.com": [
-        "188.114.98.0",
-        "188.114.99.0"
+        "104.21.80.1",
+        "104.21.48.1",
+        "104.21.32.1",
+        "104.21.64.1",
+        "104.21.16.1",
+        "104.21.112.1",
+        "104.21.96.1"
       ],
       "f7.sarasimano.com": [
-        "104.21.96.1",
         "104.21.112.1",
-        "104.21.64.1",
         "104.21.48.1",
+        "104.21.16.1",
         "104.21.80.1",
+        "104.21.96.1",
         "104.21.32.1",
-        "104.21.16.1"
+        "104.21.64.1"
       ],
       "f9.sarasimano.com": [
         "104.21.96.1",
-        "104.21.80.1",
         "104.21.16.1",
+        "104.21.64.1",
         "104.21.48.1",
-        "104.21.32.1",
         "104.21.112.1",
-        "104.21.64.1"
+        "104.21.32.1",
+        "104.21.80.1"
       ],
       "f10.sarasimano.com": [
-        "104.21.80.1",
         "104.21.64.1",
-        "104.21.16.1",
-        "104.21.112.1",
-        "104.21.32.1",
+        "104.21.96.1",
         "104.21.48.1",
-        "104.21.96.1"
+        "104.21.32.1",
+        "104.21.80.1",
+        "104.21.112.1",
+        "104.21.16.1"
       ],
       "f5.sarasimano.com": [
-        "188.114.98.0",
-        "188.114.99.0"
+        "104.21.48.1",
+        "104.21.80.1",
+        "104.21.96.1",
+        "104.21.16.1",
+        "104.21.64.1",
+        "104.21.112.1",
+        "104.21.32.1"
       ],
       "n6.sarasimano.com": [
-        "104.21.16.1",
+        "104.21.32.1",
+        "104.21.48.1",
         "104.21.112.1",
         "104.21.80.1",
-        "104.21.32.1",
         "104.21.64.1",
-        "104.21.48.1",
-        "104.21.96.1"
+        "104.21.96.1",
+        "104.21.16.1"
       ],
       "main.opengate.wiki": [
-        "109.172.54.53",
         "109.172.54.231",
+        "185.75.135.115",
+        "185.75.135.116",
         "185.75.135.120",
         "185.75.135.119",
-        "185.75.135.115",
-        "185.75.135.116"
+        "109.172.54.53"
       ],
       "aio.unlimited.biz.id": [
-        "172.67.172.237",
-        "104.21.30.128"
+        "104.21.30.128",
+        "172.67.172.237"
       ],
       "bonefletcher.fonixapp.org": "202.78.163.59",
       "freevpn.ndeso.web.id": [
@@ -233,79 +243,87 @@
       ],
       "test13.huvicloud.com": "209.141.52.4",
       "s4.sarasimano.com": [
-        "104.21.32.1",
-        "104.21.16.1",
-        "104.21.48.1",
-        "104.21.64.1",
         "104.21.80.1",
+        "104.21.16.1",
+        "104.21.64.1",
+        "104.21.32.1",
         "104.21.112.1",
-        "104.21.96.1"
+        "104.21.96.1",
+        "104.21.48.1"
       ],
-      "3961852.shatak.top": "10.10.34.35",
-      "1690673.shatak.top": "10.10.34.35",
-      "3825967.shatak.top": "10.10.34.35",
-      "1794532.shatak.top": "10.10.34.35",
+      "3961852.shatak.top": "165.232.81.59",
+      "1690673.shatak.top": "94.237.27.231",
+      "3825967.shatak.top": "94.237.27.223",
+      "1794532.shatak.top": "89.23.108.188",
       "npmjs.com": [
         "104.17.223.175",
         "104.17.176.171"
       ],
       "greenwolf.fonixapp.org": "202.78.163.221",
       "eng13.netliberated.org": [
-        "46.226.163.150",
-        "46.226.163.233",
         "46.226.163.213",
-        "46.226.163.126",
-        "46.226.163.59"
+        "46.226.163.233",
+        "46.226.163.59",
+        "46.226.163.150",
+        "46.226.163.126"
       ],
       "amazon-13.cristiano.name.ng": "34.245.83.206",
       "test3.flha.ru": [
-        "172.67.214.33",
-        "104.21.23.231"
+        "104.21.23.231",
+        "172.67.214.33"
       ],
       "v2ray.codefyinc.com": "209.126.84.189",
       "smosh.com": "23.227.38.32",
       "cafearz.com": [
-        "104.21.96.1",
-        "104.21.48.1",
-        "104.21.112.1",
         "104.21.32.1",
         "104.21.16.1",
-        "104.21.80.1",
-        "104.21.64.1"
+        "104.21.64.1",
+        "104.21.112.1",
+        "104.21.96.1",
+        "104.21.48.1",
+        "104.21.80.1"
       ],
-      "backus1.dh03.shop": "10.10.34.35",
+      "backus1.dh03.shop": [
+        "172.67.203.89",
+        "104.21.14.123"
+      ],
       "pranab.ns.cloudflare.com": [
-        "162.159.44.199",
         "108.162.195.199",
+        "162.159.44.199",
         "172.64.35.199"
       ],
       "bestcf.030101.xyz": [
-        "162.159.138.229",
-        "104.17.181.3"
+        "104.17.181.3",
+        "162.159.138.229"
       ],
       "vipren.biz.id": [
-        "188.114.99.0",
-        "188.114.98.0"
+        "104.21.64.1",
+        "104.21.96.1",
+        "104.21.80.1",
+        "104.21.48.1",
+        "104.21.16.1",
+        "104.21.32.1",
+        "104.21.112.1"
       ],
       "ignacio.ns.cloudflare.com": [
         "162.159.44.82",
-        "172.64.35.82",
-        "108.162.195.82"
+        "108.162.195.82",
+        "172.64.35.82"
       ],
       "freexxx.ndeso.web.id": [
-        "188.114.97.7",
-        "188.114.96.7"
+        "172.66.158.93",
+        "104.20.28.30"
       ],
       "nl01-vlr01.tcp-reset-club.net": [
-        "185.82.73.189",
-        "192.142.15.94",
-        "192.142.15.96",
-        "185.82.73.196",
+        "185.82.73.195",
         "185.82.73.159",
+        "185.82.73.189",
+        "185.82.73.196",
+        "185.82.73.202",
         "185.82.73.118",
         "192.142.15.95",
-        "185.82.73.195",
-        "185.82.73.202"
+        "192.142.15.94",
+        "192.142.15.96"
       ],
       "sssg01.521pokemon.com": "119.147.22.215",
       "sssg04.521pokemon.com": "119.147.22.215",
@@ -313,23 +331,23 @@
       "ssjp05.521pokemon.com": "119.147.22.215",
       "ssjp01.521pokemon.com": "119.147.22.215",
       "ssjpv6.521pokemon.com": "120.232.170.206",
-      "ssjp04.521pokemon.com": "111.229.130.117",
+      "ssjp04.521pokemon.com": "81.70.7.16",
       "sskr01.521pokemon.com": "119.147.22.215",
       "sskr04.521pokemon.com": "119.147.22.215",
       "sskrv6.521pokemon.com": "120.232.170.206",
       "ssus01.521pokemon.com": "119.147.22.215",
       "ssus02.521pokemon.com": "119.147.22.215",
       "ssusv6.521pokemon.com": "120.232.170.206",
-      "usiplc.521pokemon.com": "111.229.130.117",
+      "usiplc.521pokemon.com": "154.8.149.33",
       "jiasu.bxvpn.xyz": "1.1.1.1",
-      "mg.1mao.me": "10.10.34.35",
+      "mg.1mao.me": "38.114.103.54",
       "hinet.ov1.top": "36.235.175.230",
       "tw.dingdangmao.tech": "118.167.192.110",
-      "iq.1mao.me": "10.10.34.35",
-      "my.1mao.me": "10.10.34.35",
-      "tg.1mao.me": "10.10.34.35",
-      "vn.1mao.me": "10.10.34.35",
-      "ru.1mao.me": "10.10.34.35",
+      "iq.1mao.me": "193.56.135.149",
+      "my.1mao.me": "103.131.191.229",
+      "tg.1mao.me": "103.137.185.187",
+      "vn.1mao.me": "103.137.185.187",
+      "ru.1mao.me": "185.143.221.202",
       "jp01.9191.baby": "13.231.45.229",
       "jp02.9191.baby": "3.113.26.251",
       "jp03.9191.baby": "54.65.225.93",
@@ -355,16 +373,16 @@
         "188.114.97.3"
       ],
       "iran.ir": [
-        "185.143.234.120",
-        "185.143.233.120"
+        "185.143.233.120",
+        "185.143.234.120"
       ],
       "audit.dl-rockstargame.ir": [
-        "10.70.95.170",
-        "10.70.95.150"
-      ],
-      "glass.dl-rockstargame.ir": [
         "10.70.95.150",
         "10.70.95.170"
+      ],
+      "glass.dl-rockstargame.ir": [
+        "10.70.95.170",
+        "10.70.95.150"
       ],
       "table.dl-rockstargame.ir": [
         "10.70.95.150",
@@ -1026,7 +1044,6 @@
             "users": [
               {
                 "encryption": "none",
-                "flow": "",
                 "id": "e4824193-4f54-453b-d037-88368e85ef0e",
                 "level": 8
               }
@@ -1268,7 +1285,6 @@
             "users": [
               {
                 "encryption": "none",
-                "flow": "",
                 "id": "ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4",
                 "level": 8
               }
@@ -1688,7 +1704,6 @@
             "users": [
               {
                 "encryption": "none",
-                "flow": "",
                 "id": "4e4768df-0fbb-4cc1-8fd3-7c6fea95742a",
                 "level": 8
               }
@@ -2915,7 +2930,6 @@
             "users": [
               {
                 "encryption": "none",
-                "flow": "",
                 "id": "502ce704-dcec-4f92-9489-505c99ce6c89",
                 "level": 8
               }
@@ -2959,7 +2973,6 @@
             "users": [
               {
                 "encryption": "none",
-                "flow": "",
                 "id": "502ce704-dcec-4f92-9489-505c99ce6c89",
                 "level": 8
               }
@@ -3003,7 +3016,6 @@
             "users": [
               {
                 "encryption": "none",
-                "flow": "",
                 "id": "502ce704-dcec-4f92-9489-505c99ce6c89",
                 "level": 8
               }
@@ -3047,7 +3059,6 @@
             "users": [
               {
                 "encryption": "none",
-                "flow": "",
                 "id": "502ce704-dcec-4f92-9489-505c99ce6c89",
                 "level": 8
               }
@@ -3091,7 +3102,6 @@
             "users": [
               {
                 "encryption": "none",
-                "flow": "",
                 "id": "502ce704-dcec-4f92-9489-505c99ce6c89",
                 "level": 8
               }
@@ -3135,7 +3145,6 @@
             "users": [
               {
                 "encryption": "none",
-                "flow": "",
                 "id": "502ce704-dcec-4f92-9489-505c99ce6c89",
                 "level": 8
               }
@@ -3179,7 +3188,6 @@
             "users": [
               {
                 "encryption": "none",
-                "flow": "",
                 "id": "502ce704-dcec-4f92-9489-505c99ce6c89",
                 "level": 8
               }
@@ -3223,7 +3231,6 @@
             "users": [
               {
                 "encryption": "none",
-                "flow": "",
                 "id": "502ce704-dcec-4f92-9489-505c99ce6c89",
                 "level": 8
               }
@@ -3267,7 +3274,6 @@
             "users": [
               {
                 "encryption": "none",
-                "flow": "",
                 "id": "502ce704-dcec-4f92-9489-505c99ce6c89",
                 "level": 8
               }
@@ -3311,7 +3317,6 @@
             "users": [
               {
                 "encryption": "none",
-                "flow": "",
                 "id": "502ce704-dcec-4f92-9489-505c99ce6c89",
                 "level": 8
               }
@@ -3355,7 +3360,6 @@
             "users": [
               {
                 "encryption": "none",
-                "flow": "",
                 "id": "502ce704-dcec-4f92-9489-505c99ce6c89",
                 "level": 8
               }
@@ -3399,7 +3403,6 @@
             "users": [
               {
                 "encryption": "none",
-                "flow": "",
                 "id": "502ce704-dcec-4f92-9489-505c99ce6c89",
                 "level": 8
               }
@@ -3443,7 +3446,6 @@
             "users": [
               {
                 "encryption": "none",
-                "flow": "",
                 "id": "502ce704-dcec-4f92-9489-505c99ce6c89",
                 "level": 8
               }
@@ -3487,7 +3489,6 @@
             "users": [
               {
                 "encryption": "none",
-                "flow": "",
                 "id": "502ce704-dcec-4f92-9489-505c99ce6c89",
                 "level": 8
               }
@@ -3531,7 +3532,6 @@
             "users": [
               {
                 "encryption": "none",
-                "flow": "",
                 "id": "e4824193-4f54-453b-d037-88368e85ef0e",
                 "level": 8
               }
@@ -3570,7 +3570,6 @@
             "users": [
               {
                 "encryption": "none",
-                "flow": "",
                 "id": "502ce704-dcec-4f92-9489-505c99ce6c89",
                 "level": 8
               }
@@ -3657,7 +3656,6 @@
             "users": [
               {
                 "encryption": "none",
-                "flow": "",
                 "id": "502ce704-dcec-4f92-9489-505c99ce6c89",
                 "level": 8
               }
@@ -4447,7 +4445,6 @@
             "users": [
               {
                 "encryption": "none",
-                "flow": "",
                 "id": "b5441b0d-2147-4898-8a6a-9b2c87f58382",
                 "level": 8
               }
@@ -4482,7 +4479,6 @@
             "users": [
               {
                 "encryption": "none",
-                "flow": "",
                 "id": "b5441b0d-2147-4898-8a6a-9b2c87f58382",
                 "level": 8
               }
@@ -4517,7 +4513,6 @@
             "users": [
               {
                 "encryption": "none",
-                "flow": "",
                 "id": "b5441b0d-2147-4898-8a6a-9b2c87f58382",
                 "level": 8
               }
@@ -4552,7 +4547,6 @@
             "users": [
               {
                 "encryption": "none",
-                "flow": "",
                 "id": "b5441b0d-2147-4898-8a6a-9b2c87f58382",
                 "level": 8
               }
@@ -4587,7 +4581,6 @@
             "users": [
               {
                 "encryption": "none",
-                "flow": "",
                 "id": "401374e6-df77-41fb-f638-dad8184f175b",
                 "level": 8
               }
@@ -4672,7 +4665,6 @@
             "users": [
               {
                 "encryption": "none",
-                "flow": "",
                 "id": "2036e2c3-18a5-4eed-9db4-f91a7f02c7d5",
                 "level": 8
               }
@@ -4826,7 +4818,6 @@
             "users": [
               {
                 "encryption": "none",
-                "flow": "",
                 "id": "b5441b0d-2147-4898-8a6a-9b2c87f58382",
                 "level": 8
               }
@@ -4861,7 +4852,6 @@
             "users": [
               {
                 "encryption": "none",
-                "flow": "",
                 "id": "b5441b0d-2147-4898-8a6a-9b2c87f58382",
                 "level": 8
               }
@@ -5489,7 +5479,6 @@
             "users": [
               {
                 "encryption": "none",
-                "flow": "",
                 "id": "0132166f-e702-48ed-a9e7-b07af768faf8",
                 "level": 8
               }
@@ -5524,7 +5513,6 @@
             "users": [
               {
                 "encryption": "none",
-                "flow": "",
                 "id": "b5441b0d-2147-4898-8a6a-9b2c87f58382",
                 "level": 8
               }
@@ -5559,7 +5547,6 @@
             "users": [
               {
                 "encryption": "none",
-                "flow": "",
                 "id": "34c01e61-f4f3-4afb-a83b-406caf8caa33",
                 "level": 8
               }
@@ -6369,7 +6356,6 @@
             "users": [
               {
                 "encryption": "none",
-                "flow": "",
                 "id": "d8dd94fd-540e-461d-b5d4-acebef02c22a",
                 "level": 8
               }
@@ -6411,7 +6397,6 @@
             "users": [
               {
                 "encryption": "none",
-                "flow": "",
                 "id": "d8dd94fd-540e-461d-b5d4-acebef02c22a",
                 "level": 8
               }
@@ -6453,7 +6438,6 @@
             "users": [
               {
                 "encryption": "none",
-                "flow": "",
                 "id": "2a562107-43a6-40a4-a35e-e01e6f21684e",
                 "level": 8
               }
@@ -6538,7 +6522,6 @@
             "users": [
               {
                 "encryption": "none",
-                "flow": "",
                 "id": "d8dd94fd-540e-461d-b5d4-acebef02c22a",
                 "level": 8
               }
@@ -6614,7 +6597,6 @@
             "users": [
               {
                 "encryption": "none",
-                "flow": "",
                 "id": "d8dd94fd-540e-461d-b5d4-acebef02c22a",
                 "level": 8
               }
@@ -6656,7 +6638,6 @@
             "users": [
               {
                 "encryption": "none",
-                "flow": "",
                 "id": "d8dd94fd-540e-461d-b5d4-acebef02c22a",
                 "level": 8
               }
@@ -6698,7 +6679,6 @@
             "users": [
               {
                 "encryption": "none",
-                "flow": "",
                 "id": "d8dd94fd-540e-461d-b5d4-acebef02c22a",
                 "level": 8
               }
@@ -6740,7 +6720,6 @@
             "users": [
               {
                 "encryption": "none",
-                "flow": "",
                 "id": "d8dd94fd-540e-461d-b5d4-acebef02c22a",
                 "level": 8
               }
@@ -6782,7 +6761,6 @@
             "users": [
               {
                 "encryption": "none",
-                "flow": "",
                 "id": "d8dd94fd-540e-461d-b5d4-acebef02c22a",
                 "level": 8
               }
@@ -6824,7 +6802,6 @@
             "users": [
               {
                 "encryption": "none",
-                "flow": "",
                 "id": "d8dd94fd-540e-461d-b5d4-acebef02c22a",
                 "level": 8
               }
@@ -7220,7 +7197,6 @@
             "users": [
               {
                 "encryption": "none",
-                "flow": "",
                 "id": "d8dd94fd-540e-461d-b5d4-acebef02c22a",
                 "level": 8
               }
@@ -7262,7 +7238,6 @@
             "users": [
               {
                 "encryption": "none",
-                "flow": "",
                 "id": "d8dd94fd-540e-461d-b5d4-acebef02c22a",
                 "level": 8
               }
@@ -7304,7 +7279,6 @@
             "users": [
               {
                 "encryption": "none",
-                "flow": "",
                 "id": "d8dd94fd-540e-461d-b5d4-acebef02c22a",
                 "level": 8
               }
@@ -7346,7 +7320,6 @@
             "users": [
               {
                 "encryption": "none",
-                "flow": "",
                 "id": "d8dd94fd-540e-461d-b5d4-acebef02c22a",
                 "level": 8
               }
@@ -7388,7 +7361,6 @@
             "users": [
               {
                 "encryption": "none",
-                "flow": "",
                 "id": "d8dd94fd-540e-461d-b5d4-acebef02c22a",
                 "level": 8
               }
@@ -7430,7 +7402,6 @@
             "users": [
               {
                 "encryption": "none",
-                "flow": "",
                 "id": "d8dd94fd-540e-461d-b5d4-acebef02c22a",
                 "level": 8
               }
@@ -7472,7 +7443,6 @@
             "users": [
               {
                 "encryption": "none",
-                "flow": "",
                 "id": "d8dd94fd-540e-461d-b5d4-acebef02c22a",
                 "level": 8
               }
@@ -7514,7 +7484,6 @@
             "users": [
               {
                 "encryption": "none",
-                "flow": "",
                 "id": "d8dd94fd-540e-461d-b5d4-acebef02c22a",
                 "level": 8
               }
@@ -7556,7 +7525,6 @@
             "users": [
               {
                 "encryption": "none",
-                "flow": "",
                 "id": "d8dd94fd-540e-461d-b5d4-acebef02c22a",
                 "level": 8
               }
@@ -7598,7 +7566,6 @@
             "users": [
               {
                 "encryption": "none",
-                "flow": "",
                 "id": "d8dd94fd-540e-461d-b5d4-acebef02c22a",
                 "level": 8
               }
@@ -7640,7 +7607,6 @@
             "users": [
               {
                 "encryption": "none",
-                "flow": "",
                 "id": "d8dd94fd-540e-461d-b5d4-acebef02c22a",
                 "level": 8
               }
@@ -7682,7 +7648,6 @@
             "users": [
               {
                 "encryption": "none",
-                "flow": "",
                 "id": "d8dd94fd-540e-461d-b5d4-acebef02c22a",
                 "level": 8
               }
@@ -7757,7 +7722,6 @@
             "users": [
               {
                 "encryption": "none",
-                "flow": "",
                 "id": "d8dd94fd-540e-461d-b5d4-acebef02c22a",
                 "level": 8
               }
@@ -7799,7 +7763,6 @@
             "users": [
               {
                 "encryption": "none",
-                "flow": "",
                 "id": "d8dd94fd-540e-461d-b5d4-acebef02c22a",
                 "level": 8
               }
@@ -7884,7 +7847,6 @@
             "users": [
               {
                 "encryption": "none",
-                "flow": "",
                 "id": "d8dd94fd-540e-461d-b5d4-acebef02c22a",
                 "level": 8
               }
@@ -7963,7 +7925,6 @@
             "users": [
               {
                 "encryption": "none",
-                "flow": "",
                 "id": "502ce704-dcec-4f92-9489-505c99ce6c89",
                 "level": 8
               }
@@ -8008,7 +7969,6 @@
             "users": [
               {
                 "encryption": "none",
-                "flow": "",
                 "id": "0417be58-2ea8-49de-8083-9eff9b0137e5",
                 "level": 8
               }
@@ -8052,7 +8012,6 @@
             "users": [
               {
                 "encryption": "none",
-                "flow": "",
                 "id": "7a80a8d9-92f9-4f0a-8352-9005a8215ab8",
                 "level": 8
               }
@@ -8097,7 +8056,6 @@
             "users": [
               {
                 "encryption": "none",
-                "flow": "",
                 "id": "99946974-0264-4496-9929-6f1492504d6c",
                 "level": 8
               }
@@ -8178,7 +8136,6 @@
             "users": [
               {
                 "encryption": "none",
-                "flow": "",
                 "id": "5b1a170b-5188-4f48-b240-b770e78bf2a4",
                 "level": 8
               }
@@ -8222,7 +8179,6 @@
             "users": [
               {
                 "encryption": "none",
-                "flow": "",
                 "id": "f278037e-ce36-4634-9b4d-fca93e345a35",
                 "level": 8
               }
@@ -8494,7 +8450,6 @@
             "users": [
               {
                 "encryption": "none",
-                "flow": "",
                 "id": "ee6774c0-9b19-4ff1-8b30-2da4b71977e2",
                 "level": 8
               }
@@ -8538,7 +8493,6 @@
             "users": [
               {
                 "encryption": "none",
-                "flow": "",
                 "id": "ee6774c0-9b19-4ff1-8b30-2da4b71977e2",
                 "level": 8
               }
@@ -8619,7 +8573,6 @@
             "users": [
               {
                 "encryption": "none",
-                "flow": "",
                 "id": "502ce704-dcec-4f92-9489-505c99ce6c89",
                 "level": 8
               }
@@ -8664,7 +8617,6 @@
             "users": [
               {
                 "encryption": "none",
-                "flow": "",
                 "id": "ee6774c0-9b19-4ff1-8b30-2da4b71977e2",
                 "level": 8
               }
@@ -8708,7 +8660,6 @@
             "users": [
               {
                 "encryption": "none",
-                "flow": "",
                 "id": "ee6774c0-9b19-4ff1-8b30-2da4b71977e2",
                 "level": 8
               }
@@ -12250,7 +12201,7 @@
         "network": "tcp",
         "realitySettings": {
           "allowInsecure": true,
-          "fingerprint": "qq",
+          "fingerprint": "firefox",
           "publicKey": "yI9lqxK5_5k8KW1ZecGX2Y-CMA0UvkunkjXM5LwNFDI",
           "serverName": "s0.awsstatic.com",
           "show": false,
@@ -12296,7 +12247,7 @@
         "network": "tcp",
         "realitySettings": {
           "allowInsecure": true,
-          "fingerprint": "qq",
+          "fingerprint": "safari",
           "publicKey": "yI9lqxK5_5k8KW1ZecGX2Y-CMA0UvkunkjXM5LwNFDI",
           "serverName": "s0.awsstatic.com",
           "show": false,
@@ -12342,7 +12293,7 @@
         "network": "tcp",
         "realitySettings": {
           "allowInsecure": true,
-          "fingerprint": "edge",
+          "fingerprint": "ios",
           "publicKey": "yI9lqxK5_5k8KW1ZecGX2Y-CMA0UvkunkjXM5LwNFDI",
           "serverName": "s0.awsstatic.com",
           "show": false,
@@ -12388,7 +12339,7 @@
         "network": "tcp",
         "realitySettings": {
           "allowInsecure": true,
-          "fingerprint": "qq",
+          "fingerprint": "edge",
           "publicKey": "yI9lqxK5_5k8KW1ZecGX2Y-CMA0UvkunkjXM5LwNFDI",
           "serverName": "s0.awsstatic.com",
           "show": false,
@@ -12434,7 +12385,7 @@
         "network": "tcp",
         "realitySettings": {
           "allowInsecure": true,
-          "fingerprint": "edge",
+          "fingerprint": "qq",
           "publicKey": "GwC87U6dwdPhfGGEtJAhZEf6StELYGVcvXkKJOU7nmc",
           "serverName": "s0.awsstatic.com",
           "show": false,
@@ -12522,7 +12473,7 @@
           "domainStrategy": "UseIPv6v4"
         },
         "tlsSettings": {
-          "allowInsecure": false,
+          "allowInsecure": true,
           "serverName": "iq.1mao.me",
           "show": false
         },
@@ -12563,7 +12514,7 @@
         "network": "tcp",
         "realitySettings": {
           "allowInsecure": true,
-          "fingerprint": "firefox",
+          "fingerprint": "qq",
           "publicKey": "nfH7lzsC1Q_OA9Q1AFLKXOs02nJDOXZE0v0lciS-7Ec",
           "serverName": "s0.awsstatic.com",
           "show": false,
@@ -12609,7 +12560,7 @@
         "network": "tcp",
         "realitySettings": {
           "allowInsecure": true,
-          "fingerprint": "safari",
+          "fingerprint": "qq",
           "publicKey": "4vwo3EctLRDZgVVhRCznCDT2kjBTLWMK26T0IK-etx0",
           "serverName": "buylite.music.apple.com",
           "show": false,
@@ -12655,7 +12606,7 @@
         "network": "tcp",
         "realitySettings": {
           "allowInsecure": true,
-          "fingerprint": "firefox",
+          "fingerprint": "edge",
           "publicKey": "4vwo3EctLRDZgVVhRCznCDT2kjBTLWMK26T0IK-etx0",
           "serverName": "buylite.music.apple.com",
           "show": false,
@@ -12701,7 +12652,7 @@
         "network": "tcp",
         "realitySettings": {
           "allowInsecure": true,
-          "fingerprint": "chrome",
+          "fingerprint": "edge",
           "publicKey": "AgVkO3R1qjc00HOoO4zGduFG_oCHO5FYOOwKds4ZsXE",
           "serverName": "s0.awsstatic.com",
           "show": false,
@@ -13984,7 +13935,7 @@
         "network": "tcp",
         "realitySettings": {
           "allowInsecure": true,
-          "fingerprint": "edge",
+          "fingerprint": "safari",
           "publicKey": "_2xw6VZzyC2oHxl7d9ZC-QrLrj9Pa_T9xTBCVp49cng",
           "serverName": "www.samsung.com",
           "shortId": "becffd30c1af3e",
@@ -14031,7 +13982,7 @@
         "network": "tcp",
         "realitySettings": {
           "allowInsecure": true,
-          "fingerprint": "ios",
+          "fingerprint": "safari",
           "publicKey": "_2xw6VZzyC2oHxl7d9ZC-QrLrj9Pa_T9xTBCVp49cng",
           "serverName": "www.samsung.com",
           "shortId": "becffd30c1af3e",
@@ -14078,7 +14029,7 @@
         "network": "tcp",
         "realitySettings": {
           "allowInsecure": true,
-          "fingerprint": "chrome",
+          "fingerprint": "ios",
           "publicKey": "_2xw6VZzyC2oHxl7d9ZC-QrLrj9Pa_T9xTBCVp49cng",
           "serverName": "www.samsung.com",
           "shortId": "becffd30c1af3e",
@@ -14125,7 +14076,7 @@
         "network": "tcp",
         "realitySettings": {
           "allowInsecure": true,
-          "fingerprint": "qq",
+          "fingerprint": "ios",
           "publicKey": "_n03lNMzeEqXcR40Llr1hfM51Rvldo7a5yJvLU0QQRk",
           "serverName": "www.samsung.com",
           "shortId": "a136d3",
@@ -14172,7 +14123,7 @@
         "network": "tcp",
         "realitySettings": {
           "allowInsecure": true,
-          "fingerprint": "safari",
+          "fingerprint": "chrome",
           "publicKey": "CaRTsPFkN3NY86j3mkIzEigPosA8ztpb_sW5dE2GeCQ",
           "serverName": "player.live-video.net",
           "shortId": "34e3699f96df",
@@ -14219,7 +14170,7 @@
         "network": "tcp",
         "realitySettings": {
           "allowInsecure": true,
-          "fingerprint": "safari",
+          "fingerprint": "qq",
           "publicKey": "U39w_DSPSShMZ1Gkqe3hfvjSmeJmxgDBXB0PdVS9EWM",
           "serverName": "player.live-video.net",
           "shortId": "8b0277b8952d70",
@@ -14266,7 +14217,7 @@
         "network": "tcp",
         "realitySettings": {
           "allowInsecure": true,
-          "fingerprint": "edge",
+          "fingerprint": "ios",
           "publicKey": "bg2GR7DJvj7Bozsig3eIgHn2JkjH5LDcQYNYXm452Rg",
           "serverName": "player.live-video.net",
           "shortId": "6396865e12ba",
@@ -14313,7 +14264,7 @@
         "network": "tcp",
         "realitySettings": {
           "allowInsecure": true,
-          "fingerprint": "edge",
+          "fingerprint": "firefox",
           "publicKey": "lgoowwttIC6byh442EDc84Y1NKRs2z7WIFjwyNgEihU",
           "serverName": "player.live-video.net",
           "shortId": "ab6e056c1f",
@@ -14360,7 +14311,7 @@
         "network": "tcp",
         "realitySettings": {
           "allowInsecure": true,
-          "fingerprint": "firefox",
+          "fingerprint": "safari",
           "publicKey": "hPk6qMOyz0KeD-lBCFaY_sqc_HIBVwzxzHq2I-h6sQk",
           "serverName": "player.live-video.net",
           "shortId": "657f4644662c",
@@ -14407,7 +14358,7 @@
         "network": "tcp",
         "realitySettings": {
           "allowInsecure": true,
-          "fingerprint": "qq",
+          "fingerprint": "safari",
           "publicKey": "-LCSnWt6pc5-XB1B-orCbAnb2_yDs7RIHJb0InIpKC0",
           "serverName": "player.live-video.net",
           "shortId": "8c65ca4acbc722",
@@ -14454,7 +14405,7 @@
         "network": "tcp",
         "realitySettings": {
           "allowInsecure": true,
-          "fingerprint": "chrome",
+          "fingerprint": "ios",
           "publicKey": "27ci17wuu5a2U2-zWTMPq8wp-6u506TBuU8l0GVo42Y",
           "serverName": "player.live-video.net",
           "shortId": "efa8528de1d5bb",
@@ -14501,7 +14452,7 @@
         "network": "tcp",
         "realitySettings": {
           "allowInsecure": true,
-          "fingerprint": "qq",
+          "fingerprint": "safari",
           "publicKey": "ncT46cLHDgh9wEEdRJUM1NqdtzjrqMDcD7gLxiOdczA",
           "serverName": "player.live-video.net",
           "shortId": "408204743a970a",
@@ -14548,7 +14499,7 @@
         "network": "tcp",
         "realitySettings": {
           "allowInsecure": true,
-          "fingerprint": "chrome",
+          "fingerprint": "firefox",
           "publicKey": "gkyUGsb9TKUHhSSIE-ZYEnIS3K-cK9C99c3Fi_oXok8",
           "serverName": "player.live-video.net",
           "shortId": "4f3d5fdae47580",
@@ -14595,7 +14546,7 @@
         "network": "tcp",
         "realitySettings": {
           "allowInsecure": true,
-          "fingerprint": "qq",
+          "fingerprint": "ios",
           "publicKey": "9BWus556aA6OutZBwyls-u5oQFc9Y3UfBxPV8-5b4wg",
           "serverName": "player.live-video.net",
           "shortId": "82e42768e2",
@@ -14642,7 +14593,7 @@
         "network": "tcp",
         "realitySettings": {
           "allowInsecure": true,
-          "fingerprint": "edge",
+          "fingerprint": "safari",
           "publicKey": "ZFRUNuMDphuFQhUQt-7-bXmMl0L3d1VPSj2b8he1pm4",
           "serverName": "player.live-video.net",
           "shortId": "65dbec",
@@ -14689,7 +14640,7 @@
         "network": "tcp",
         "realitySettings": {
           "allowInsecure": true,
-          "fingerprint": "firefox",
+          "fingerprint": "ios",
           "publicKey": "Wt-v30Zh_4ZjVGyo3eEzjT7gs7-DEa8v4YtLV4vKsRQ",
           "serverName": "player.live-video.net",
           "shortId": "0b8d49",
@@ -16013,7 +15964,7 @@
       "tag": "block"
     }
   ],
-  "remarks": "ExclaveVirtul",
+  "remarks": "Intelligent Selection",
   "routing": {
     "balancers": [
       {
