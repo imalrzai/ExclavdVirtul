@@ -8040,7 +8040,7 @@
       "tag": "block"
     }
   ],
-  "remarks": "ExclaveVirtul",
+  "remarks": "ExclaveVirtual",
   "routing": {
     "balancers": [
       {
