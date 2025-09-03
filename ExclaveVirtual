@@ -48,49 +48,141 @@
         "2a02:6b8::feed:0ff",
         "2a02:6b8:0:1::feed:0ff"
       ],
-      "jiasu.bxvpn.xyz": "100.107.148.29",
-      "creative-computer.oneeat.co": "100.107.148.30",
-      "tgju.org": "100.107.148.31",
-      "communal-loss.oneeat.co": "100.107.148.32",
-      "m2a.vip784.com": "100.107.148.33",
-      "ilta-wzxrxkdhbjpnprhkkpplsjwawhssvollvxzdhqshiqckwdgrdm.orbnet.xyz": "100.107.148.34",
-      "ip.sb": "100.107.148.35",
-      "www.speedtest.net": "100.107.148.12",
-      "ava.game.naver.com.servpn.my.id": "100.107.148.36",
-      "oureverydaylife.com": "100.107.148.37",
-      "prhwuikhrwmsfwjwjrjlwefkjlw.siasia.ir": "100.107.148.38",
-      "pqh24v8.waipdirect.shop": "100.107.148.39",
-      "pqh29v4.vetmainconf.shop": "100.107.148.40",
-      "panel3.ipyar.org": "100.107.148.41",
-      "pq-brazil1.09vpn.com": "100.107.148.42",
-      "public18v7.fastipsport.com": "100.107.148.43",
-      "cdnjs.com": "100.107.148.44",
-      "magazine.sentry-warrunner.xyz": "100.107.148.45",
-      "sp1.shatak.store": "100.107.148.46",
-      "ipw.gfdv54cvghhgfhgj-njhgj64.info": "100.107.148.47",
-      "freevpn.xhamster.biz.id": "100.107.148.48",
-      "npmjs.com": "100.107.148.49",
-      "cf-assets-blog.cyberscaler.net": "100.107.148.50",
-      "hackney-latest-strike.freesocks.work": "100.107.148.51",
-      "x-zula.ir": "100.107.148.52",
-      "sakura.outlinekeys.net": "100.107.148.53",
-      "exchange.gameaurela.click": "100.107.148.54",
-      "beta.mattenadene.org": "100.107.148.55",
-      "hanguo01.tmdns-sing.top": "100.107.148.56",
-      "arxfw2b78fi2q9hzylhn.freesocks.work": "100.107.148.57",
-      "s3.ipyar.org": "100.107.148.58",
-      "usa022.tmdns-sing.top": "100.107.148.59",
-      "famous-danger.oneeat.co": "100.107.148.60",
-      "fearless-change.oneeat.co": "100.107.148.61",
-      "light-presence.oneeat.co": "100.107.148.62",
-      "fk31lndm4w8uj0yp1drwltdtdko6y-cu.pages.dev": "100.107.148.63",
-      "Telegram-Eag1e_YT": "100.107.148.64",
-      "a1-gfawbcw.gamerestan.ir": "100.107.148.65",
-      "www.visa.com.sg": "100.107.148.66",
-      "ru01-vlr01.tcp-reset-club.net": "100.107.148.67",
-      "wolf540.api-tel.ir": "100.107.148.68",
-      "EVAY_VPN.fastly80.hosting-ip.com": "100.107.148.69",
-      "speedtestcustom.com": "100.107.148.70"
+      "jiasu.bxvpn.xyz": "1.1.1.1",
+      "creative-computer.oneeat.co": [
+        "2606:4700:10::6814:2b51",
+        "2606:4700:10::ac42:9c51",
+        "172.66.156.81",
+        "104.20.43.81"
+      ],
+      "tgju.org": [
+        "2606:4700:20::681a:f55",
+        "2606:4700:20::ac43:49a3",
+        "2606:4700:20::681a:e55",
+        "188.114.98.0",
+        "188.114.99.0"
+      ],
+      "communal-loss.oneeat.co": [
+        "2606:4700:10::ac42:9c51",
+        "2606:4700:10::6814:2b51",
+        "104.20.43.81",
+        "172.66.156.81"
+      ],
+      "m2a.vip784.com": "141.94.174.9",
+      "ilta-wzxrxkdhbjpnprhkkpplsjwawhssvollvxzdhqshiqckwdgrdm.orbnet.xyz": "20.217.84.157",
+      "ip.sb": [
+        "2606:4700:20::ac43:4bac",
+        "2606:4700:20::681a:d1f",
+        "2606:4700:20::681a:c1f",
+        "172.67.75.172",
+        "104.26.12.31",
+        "104.26.13.31"
+      ],
+      "www.speedtest.net": [
+        "104.17.147.22",
+        "104.17.148.22"
+      ],
+      "oureverydaylife.com": [
+        "2606:4700:3030::6815:7001",
+        "2606:4700:3030::6815:1001",
+        "2606:4700:3030::6815:3001",
+        "2606:4700:3030::6815:6001",
+        "2606:4700:3030::6815:2001",
+        "2606:4700:3030::6815:5001",
+        "2606:4700:3030::6815:4001",
+        "188.114.99.0",
+        "188.114.98.0"
+      ],
+      "prhwuikhrwmsfwjwjrjlwefkjlw.siasia.ir": "84.234.29.214",
+      "pqh24v8.waipdirect.shop": "185.236.232.223",
+      "pqh29v4.vetmainconf.shop": "185.236.232.240",
+      "panel3.ipyar.org": "65.109.188.195",
+      "pq-brazil1.09vpn.com": "95.164.4.88",
+      "public18v7.fastipsport.com": "185.236.232.189",
+      "cdnjs.com": [
+        "2606:4700:20::ac43:42b1",
+        "2606:4700:20::6818:c514",
+        "2606:4700:20::6818:c414",
+        "104.24.197.20",
+        "172.67.66.177",
+        "104.24.196.20"
+      ],
+      "magazine.sentry-warrunner.xyz": "91.99.168.213",
+      "sp1.shatak.store": [
+        "2001:4188:2:600:10:10:34:35",
+        "10.10.34.35"
+      ],
+      "ipw.gfdv54cvghhgfhgj-njhgj64.info": [
+        "108.165.216.46",
+        "104.26.6.89",
+        "91.193.58.190"
+      ],
+      "npmjs.com": [
+        "2606:4700::6811:b0ab",
+        "2606:4700::6811:dfaf",
+        "104.17.176.171",
+        "104.17.223.175"
+      ],
+      "hackney-latest-strike.freesocks.work": [
+        "2605:2700:0:2:a800:ff:fe9d:bd41",
+        "71.19.148.74"
+      ],
+      "sakura.outlinekeys.net": "91.194.160.151",
+      "exchange.gameaurela.click": "141.98.4.67",
+      "beta.mattenadene.org": "94.131.21.174",
+      "hanguo01.tmdns-sing.top": "38.60.220.13",
+      "arxfw2b78fi2q9hzylhn.freesocks.work": [
+        "2400:e920:0:4::50",
+        "160.19.78.75"
+      ],
+      "s3.ipyar.org": "193.222.97.200",
+      "usa022.tmdns-sing.top": "38.60.163.87",
+      "famous-danger.oneeat.co": [
+        "2606:4700:10::6814:2b51",
+        "2606:4700:10::ac42:9c51",
+        "172.66.156.81",
+        "104.20.43.81"
+      ],
+      "fearless-change.oneeat.co": [
+        "2606:4700:10::ac42:9c51",
+        "2606:4700:10::6814:2b51",
+        "172.66.156.81",
+        "104.20.43.81"
+      ],
+      "light-presence.oneeat.co": [
+        "2606:4700:10::ac42:9c51",
+        "2606:4700:10::6814:2b51",
+        "172.66.156.81",
+        "104.20.43.81"
+      ],
+      "fk31lndm4w8uj0yp1drwltdtdko6y-cu.pages.dev": [
+        "2a06:98c1:3123::",
+        "2a06:98c1:3122::",
+        "172.66.46.247",
+        "172.66.45.9"
+      ],
+      "a1-gfawbcw.gamerestan.ir": "185.83.182.100",
+      "www.visa.com.sg": [
+        "104.18.13.229",
+        "104.18.12.229"
+      ],
+      "ru01-vlr01.tcp-reset-club.net": [
+        "45.12.114.134",
+        "2.56.178.83",
+        "79.137.192.208"
+      ],
+      "wolf540.api-tel.ir": "57.129.51.118",
+      "EVAY_VPN.fastly80.hosting-ip.com": [
+        "151.101.195.8",
+        "151.101.67.8",
+        "151.101.3.8"
+      ],
+      "speedtestcustom.com": [
+        "151.101.2.219",
+        "151.101.194.219",
+        "151.101.66.219",
+        "151.101.130.219"
+      ]
     },
     "servers": [
       "64.145.73.5",
@@ -4337,15 +4429,6 @@
       "streamSettings": {
         "network": "ws",
         "security": "tls",
-        "sockopt": {
-          "domainStrategy": "UseIP",
-          "happyEyeballs": {
-            "interleave": 2,
-            "maxConcurrentTry": 4,
-            "prioritizeIPv6": true,
-            "tryDelayMs": 250
-          }
-        },
         "tlsSettings": {
           "allowInsecure": false,
           "fingerprint": "chrome",
@@ -5515,15 +5598,6 @@
       "streamSettings": {
         "network": "ws",
         "security": "tls",
-        "sockopt": {
-          "domainStrategy": "UseIP",
-          "happyEyeballs": {
-            "interleave": 2,
-            "maxConcurrentTry": 4,
-            "prioritizeIPv6": true,
-            "tryDelayMs": 250
-          }
-        },
         "tlsSettings": {
           "allowInsecure": false,
           "serverName": "freevpn.xhamster.biz.id",
@@ -5800,15 +5874,6 @@
           "spiderX": "/cdn-cgi/trace"
         },
         "security": "reality",
-        "sockopt": {
-          "domainStrategy": "UseIP",
-          "happyEyeballs": {
-            "interleave": 2,
-            "maxConcurrentTry": 4,
-            "prioritizeIPv6": true,
-            "tryDelayMs": 250
-          }
-        },
         "tcpSettings": {
           "header": {
             "type": "none"
@@ -7306,15 +7371,6 @@
           "show": false
         },
         "security": "reality",
-        "sockopt": {
-          "domainStrategy": "UseIP",
-          "happyEyeballs": {
-            "interleave": 2,
-            "maxConcurrentTry": 4,
-            "prioritizeIPv6": true,
-            "tryDelayMs": 250
-          }
-        },
         "tcpSettings": {
           "header": {
             "type": "none"
@@ -9852,15 +9908,6 @@
       "streamSettings": {
         "network": "tcp",
         "security": "tls",
-        "sockopt": {
-          "domainStrategy": "UseIP",
-          "happyEyeballs": {
-            "interleave": 2,
-            "maxConcurrentTry": 4,
-            "prioritizeIPv6": true,
-            "tryDelayMs": 250
-          }
-        },
         "tcpSettings": {
           "header": {
             "type": "none"
@@ -9893,15 +9940,6 @@
       "streamSettings": {
         "network": "tcp",
         "security": "tls",
-        "sockopt": {
-          "domainStrategy": "UseIP",
-          "happyEyeballs": {
-            "interleave": 2,
-            "maxConcurrentTry": 4,
-            "prioritizeIPv6": true,
-            "tryDelayMs": 250
-          }
-        },
         "tcpSettings": {
           "header": {
             "type": "none"
@@ -9934,15 +9972,6 @@
       "streamSettings": {
         "network": "tcp",
         "security": "tls",
-        "sockopt": {
-          "domainStrategy": "UseIP",
-          "happyEyeballs": {
-            "interleave": 2,
-            "maxConcurrentTry": 4,
-            "prioritizeIPv6": true,
-            "tryDelayMs": 250
-          }
-        },
         "tcpSettings": {
           "header": {
             "type": "none"
@@ -13497,15 +13526,6 @@
       "streamSettings": {
         "network": "ws",
         "security": "tls",
-        "sockopt": {
-          "domainStrategy": "UseIP",
-          "happyEyeballs": {
-            "interleave": 2,
-            "maxConcurrentTry": 4,
-            "prioritizeIPv6": true,
-            "tryDelayMs": 250
-          }
-        },
         "tlsSettings": {
           "allowInsecure": false,
           "fingerprint": "chrome",
@@ -14675,15 +14695,6 @@
       "streamSettings": {
         "network": "ws",
         "security": "tls",
-        "sockopt": {
-          "domainStrategy": "UseIP",
-          "happyEyeballs": {
-            "interleave": 2,
-            "maxConcurrentTry": 4,
-            "prioritizeIPv6": true,
-            "tryDelayMs": 250
-          }
-        },
         "tlsSettings": {
           "allowInsecure": false,
           "serverName": "freevpn.xhamster.biz.id",
@@ -14960,15 +14971,6 @@
           "spiderX": "/cdn-cgi/trace"
         },
         "security": "reality",
-        "sockopt": {
-          "domainStrategy": "UseIP",
-          "happyEyeballs": {
-            "interleave": 2,
-            "maxConcurrentTry": 4,
-            "prioritizeIPv6": true,
-            "tryDelayMs": 250
-          }
-        },
         "tcpSettings": {
           "header": {
             "type": "none"
@@ -16466,15 +16468,6 @@
           "show": false
         },
         "security": "reality",
-        "sockopt": {
-          "domainStrategy": "UseIP",
-          "happyEyeballs": {
-            "interleave": 2,
-            "maxConcurrentTry": 4,
-            "prioritizeIPv6": true,
-            "tryDelayMs": 250
-          }
-        },
         "tcpSettings": {
           "header": {
             "type": "none"
